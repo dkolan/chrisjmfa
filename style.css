@@ -1,4 +1,4 @@
-.img-gallery:active {
+.img-gallery:hover {
   transition:transform 0.5s ease;
   transform: scale(1.5);
   transform-origin: 0% 0%;
